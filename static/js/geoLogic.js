@@ -16,17 +16,10 @@ google.charts.setOnLoadCallback(drawRegionsMap);
             switch(data.RPPType){
                 case 'All':
                     states.push(data.GeoName);
-                    // rppAll.push(percent);
                     break;
-                // case 'Goods':
-                //     rppGoods.push(percent);
-                //     break;
                 case 'Rent':
                     rppRent.push(percent);
                     break;
-                // case 'Other':
-                //     rppOther.push(percent);
-                //     break;
             }
         }
       // console.log(data.RPP);
