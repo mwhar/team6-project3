@@ -1,0 +1,209 @@
+id,GeoName,RPPType,Percent
+0_1,United States,All,100.0
+0_2,United States,Goods,99.2
+0_3,United States,Rent,101.4
+0_4,United States,Other,100.0
+1000_1,Alabama,All,85.8
+1000_2,Alabama,Goods,95.9
+1000_3,Alabama,Rent,61.9
+1000_4,Alabama,Other,90.3
+2000_1,Alaska,All,105.1
+2000_2,Alaska,Goods,102.3
+2000_3,Alaska,Rent,122.3
+2000_4,Alaska,Other,99.1
+4000_1,Arizona,All,96.3
+4000_2,Arizona,Goods,94.8
+4000_3,Arizona,Rent,94.1
+4000_4,Arizona,Other,99.7
+5000_1,Arkansas,All,84.7
+5000_2,Arkansas,Goods,94.7
+5000_3,Arkansas,Rent,60.9
+5000_4,Arkansas,Other,91.0
+6000_1,California,All,116.4
+6000_2,California,Goods,104.9
+6000_3,California,Rent,153.6
+6000_4,California,Other,108.3
+8000_1,Colorado,All,101.9
+8000_2,Colorado,Goods,97.1
+8000_3,Colorado,Rent,124.7
+8000_4,Colorado,Other,96.0
+9000_1,Connecticut,All,105.0
+9000_2,Connecticut,Goods,102.4
+9000_3,Connecticut,Rent,107.6
+9000_4,Connecticut,Other,106.2
+10000_1,Delaware,All,99.4
+10000_2,Delaware,Goods,98.3
+10000_3,Delaware,Rent,95.0
+10000_4,Delaware,Other,103.6
+11000_1,District of Columbia,All,115.2
+11000_2,District of Columbia,Goods,105.2
+11000_3,District of Columbia,Rent,146.4
+11000_4,District of Columbia,Other,106.5
+12000_1,Florida,All,101.0
+12000_2,Florida,Goods,97.8
+12000_3,Florida,Rent,109.4
+12000_4,Florida,Other,99.0
+13000_1,Georgia,All,93.2
+13000_2,Georgia,Goods,96.8
+13000_3,Georgia,Rent,82.6
+13000_4,Georgia,Other,96.7
+15000_1,Hawaii,All,119.3
+15000_2,Hawaii,Goods,111.8
+15000_3,Hawaii,Rent,152.6
+15000_4,Hawaii,Other,105.0
+16000_1,Idaho,All,92.2
+16000_2,Idaho,Goods,96.2
+16000_3,Idaho,Rent,80.6
+16000_4,Idaho,Other,95.8
+17000_1,Illinois,All,97.4
+17000_2,Illinois,Goods,99.0
+17000_3,Illinois,Rent,94.7
+17000_4,Illinois,Other,97.4
+18000_1,Indiana,All,88.7
+18000_2,Indiana,Goods,96.1
+18000_3,Indiana,Rent,72.8
+18000_4,Indiana,Other,91.8
+19000_1,Iowa,All,89.0
+19000_2,Iowa,Goods,94.9
+19000_3,Iowa,Rent,73.0
+19000_4,Iowa,Other,91.6
+20000_1,Kansas,All,89.2
+20000_2,Kansas,Goods,95.1
+20000_3,Kansas,Rent,72.7
+20000_4,Kansas,Other,93.1
+21000_1,Kentucky,All,87.4
+21000_2,Kentucky,Goods,94.8
+21000_3,Kentucky,Rent,67.7
+21000_4,Kentucky,Other,90.6
+22000_1,Louisiana,All,87.9
+22000_2,Louisiana,Goods,95.8
+22000_3,Louisiana,Rent,72.1
+22000_4,Louisiana,Other,91.0
+23000_1,Maine,All,99.3
+23000_2,Maine,Goods,99.4
+23000_3,Maine,Rent,91.7
+23000_4,Maine,Other,103.6
+24000_1,Maryland,All,107.7
+24000_2,Maryland,Goods,102.4
+24000_3,Maryland,Rent,119.3
+24000_4,Maryland,Other,104.8
+25000_1,Massachusetts,All,110.4
+25000_2,Massachusetts,Goods,102.9
+25000_3,Massachusetts,Rent,124.3
+25000_4,Massachusetts,Other,109.2
+26000_1,Michigan,All,92.3
+26000_2,Michigan,Goods,96.9
+26000_3,Michigan,Rent,80.2
+26000_4,Michigan,Other,94.7
+27000_1,Minnesota,All,98.0
+27000_2,Minnesota,Goods,101.7
+27000_3,Minnesota,Rent,96.1
+27000_4,Minnesota,Other,95.3
+28000_1,Mississippi,All,84.4
+28000_2,Mississippi,Goods,94.4
+28000_3,Mississippi,Rent,60.0
+28000_4,Mississippi,Other,90.3
+29000_1,Missouri,All,88.7
+29000_2,Missouri,Goods,95.5
+29000_3,Missouri,Rent,72.4
+29000_4,Missouri,Other,91.7
+30000_1,Montana,All,93.5
+30000_2,Montana,Goods,97.0
+30000_3,Montana,Rent,85.3
+30000_4,Montana,Other,94.4
+31000_1,Nebraska,All,89.5
+31000_2,Nebraska,Goods,94.9
+31000_3,Nebraska,Rent,75.6
+31000_4,Nebraska,Other,91.6
+32000_1,Nevada,All,97.4
+32000_2,Nevada,Goods,93.9
+32000_3,Nevada,Rent,101.8
+32000_4,Nevada,Other,98.5
+33000_1,New Hampshire,All,106.5
+33000_2,New Hampshire,Goods,101.4
+33000_3,New Hampshire,Rent,113.9
+33000_4,New Hampshire,Other,107.1
+34000_1,New Jersey,All,116.0
+34000_2,New Jersey,Goods,103.6
+34000_3,New Jersey,Rent,130.7
+34000_4,New Jersey,Other,117.6
+35000_1,New Mexico,All,91.1
+35000_2,New Mexico,Goods,94.8
+35000_3,New Mexico,Rent,78.1
+35000_4,New Mexico,Other,97.4
+36000_1,New York,All,116.3
+36000_2,New York,Goods,108.2
+36000_3,New York,Rent,130.0
+36000_4,New York,Other,115.2
+37000_1,North Carolina,All,91.7
+37000_2,North Carolina,Goods,95.8
+37000_3,North Carolina,Rent,78.8
+37000_4,North Carolina,Other,94.9
+38000_1,North Dakota,All,89.3
+38000_2,North Dakota,Goods,94.9
+38000_3,North Dakota,Rent,75.2
+38000_4,North Dakota,Other,91.6
+39000_1,Ohio,All,88.4
+39000_2,Ohio,Goods,95.8
+39000_3,Ohio,Rent,71.7
+39000_4,Ohio,Other,91.5
+40000_1,Oklahoma,All,87.2
+40000_2,Oklahoma,Goods,95.2
+40000_3,Oklahoma,Rent,68.6
+40000_4,Oklahoma,Other,91.1
+41000_1,Oregon,All,102.2
+41000_2,Oregon,Goods,101.8
+41000_3,Oregon,Rent,109.7
+41000_4,Oregon,Other,98.2
+42000_1,Pennsylvania,All,97.0
+42000_2,Pennsylvania,Goods,99.7
+42000_3,Pennsylvania,Rent,86.8
+42000_4,Pennsylvania,Other,100.3
+44000_1,Rhode Island,All,101.3
+44000_2,Rhode Island,Goods,99.4
+44000_3,Rhode Island,Rent,101.2
+44000_4,Rhode Island,Other,103.5
+45000_1,South Carolina,All,91.5
+45000_2,South Carolina,Goods,96.0
+45000_3,South Carolina,Rent,78.2
+45000_4,South Carolina,Other,94.9
+46000_1,South Dakota,All,87.8
+46000_2,South Dakota,Goods,94.8
+46000_3,South Dakota,Rent,69.0
+46000_4,South Dakota,Other,91.5
+47000_1,Tennessee,All,89.7
+47000_2,Tennessee,Goods,95.9
+47000_3,Tennessee,Rent,76.8
+47000_4,Tennessee,Other,90.3
+48000_1,Texas,All,96.5
+48000_2,Texas,Goods,96.7
+48000_3,Texas,Rent,94.9
+48000_4,Texas,Other,97.4
+49000_1,Utah,All,96.5
+49000_2,Utah,Goods,94.5
+49000_3,Utah,Rent,98.2
+49000_4,Utah,Other,97.8
+50000_1,Vermont,All,103.1
+50000_2,Vermont,Goods,99.3
+50000_3,Vermont,Rent,109.8
+50000_4,Vermont,Other,103.4
+51000_1,Virginia,All,101.3
+51000_2,Virginia,Goods,98.9
+51000_3,Virginia,Rent,107.4
+51000_4,Virginia,Other,100.1
+53000_1,Washington,All,108.4
+53000_2,Washington,Goods,105.8
+53000_3,Washington,Rent,122.9
+53000_4,Washington,Other,103.0
+54000_1,West Virginia,All,87.1
+54000_2,West Virginia,Goods,94.6
+54000_3,West Virginia,Rent,60.9
+54000_4,West Virginia,Other,96.0
+55000_1,Wisconsin,All,91.9
+55000_2,Wisconsin,Goods,96.2
+55000_3,Wisconsin,Rent,83.7
+55000_4,Wisconsin,Other,92.3
+56000_1,Wyoming,All,92.8
+56000_2,Wyoming,Goods,96.7
+56000_3,Wyoming,Rent,82.4
+56000_4,Wyoming,Other,94.8
