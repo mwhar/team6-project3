@@ -1,4 +1,17 @@
 #regions_div{
-    max-width: 750px; 
-    /* height: 500px; */
+    /* max-width: 750px;  */
+    height: 500px;
+    /* width: 300px; */
+    padding-left: 10px;
+}
+#barchart_div{
+    /* max-width: 750px;  */
+    height: 500px;
+}
+#linechart_div{
+    /* max-width: 750px;  */
+    height: 500px;
+}
+.container{
+    width:100%;
 }
