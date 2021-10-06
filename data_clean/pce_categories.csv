@@ -1,6 +1,6 @@
-﻿id,category
-pce1,Clothing and footwear
-pce2,Gasoline and other energy goods
-pce3,Household consumption expenditures (for services)
-pce4,Housing and utilities
-pce5,Health care
+﻿category
+Clothing and footwear
+Gasoline and other energy goods
+Household consumption expenditures (for services)
+Housing and utilities
+Health care

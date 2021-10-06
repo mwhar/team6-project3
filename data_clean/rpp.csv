@@ -1,625 +1,625 @@
-id,Year,State,Regional Price Parities 
-rpp1,2008,United States,100
-rpp2,2008,Alabama,87.6
-rpp3,2008,Alaska,106.9
-rpp4,2008,Arizona,100.6
-rpp5,2008,Arkansas,86.9
-rpp6,2008,California,113.1
-rpp7,2008,Colorado,100.4
-rpp8,2008,Connecticut,110.7
-rpp9,2008,Delaware,102
-rpp10,2008,District of Columbia,115.6
-rpp11,2008,Florida,100.8
-rpp12,2008,Georgia,93.5
-rpp13,2008,Hawaii,118.1
-rpp14,2008,Idaho,95.2
-rpp15,2008,Illinois,100.2
-rpp16,2008,Indiana,91.2
-rpp17,2008,Iowa,88.6
-rpp18,2008,Kansas,89.3
-rpp19,2008,Kentucky,88.9
-rpp20,2008,Louisiana,90.7
-rpp21,2008,Maine,98
-rpp22,2008,Maryland,110.3
-rpp23,2008,Massachusetts,108.3
-rpp24,2008,Michigan,95.4
-rpp25,2008,Minnesota,97.4
-rpp26,2008,Mississippi,86.4
-rpp27,2008,Missouri,87.8
-rpp28,2008,Montana,95.3
-rpp29,2008,Nebraska,89.7
-rpp30,2008,Nevada,100.8
-rpp31,2008,New Hampshire,107.2
-rpp32,2008,New Jersey,112.9
-rpp33,2008,New Mexico,94.4
-rpp34,2008,New York,115.1
-rpp35,2008,North Carolina,92
-rpp36,2008,North Dakota,88.5
-rpp37,2008,Ohio,90
-rpp38,2008,Oklahoma,88.9
-rpp39,2008,Oregon,98.3
-rpp40,2008,Pennsylvania,98.2
-rpp41,2008,Rhode Island,100.2
-rpp42,2008,South Carolina,91.1
-rpp43,2008,South Dakota,86.9
-rpp44,2008,Tennessee,90.5
-rpp45,2008,Texas,96.5
-rpp46,2008,Utah,96.8
-rpp47,2008,Vermont,100.4
-rpp48,2008,Virginia,102.8
-rpp49,2008,Washington,103.2
-rpp50,2008,West Virginia,87
-rpp51,2008,Wisconsin,93
-rpp52,2008,Wyoming,96.1
-rpp53,2009,United States,100
-rpp54,2009,Alabama,87.5
-rpp55,2009,Alaska,106.9
-rpp56,2009,Arizona,100.1
-rpp57,2009,Arkansas,86.6
-rpp58,2009,California,112.9
-rpp59,2009,Colorado,101.1
-rpp60,2009,Connecticut,110.4
-rpp61,2009,Delaware,103.2
-rpp62,2009,District of Columbia,116.4
-rpp63,2009,Florida,100
-rpp64,2009,Georgia,93.1
-rpp65,2009,Hawaii,117.1
-rpp66,2009,Idaho,94.8
-rpp67,2009,Illinois,100.9
-rpp68,2009,Indiana,91.4
-rpp69,2009,Iowa,89
-rpp70,2009,Kansas,89.6
-rpp71,2009,Kentucky,88.7
-rpp72,2009,Louisiana,91.4
-rpp73,2009,Maine,98.1
-rpp74,2009,Maryland,111.3
-rpp75,2009,Massachusetts,108
-rpp76,2009,Michigan,95.2
-rpp77,2009,Minnesota,97.7
-rpp78,2009,Mississippi,85.8
-rpp79,2009,Missouri,87.9
-rpp80,2009,Montana,94.5
-rpp81,2009,Nebraska,89.6
-rpp82,2009,Nevada,100.7
-rpp83,2009,New Hampshire,106.4
-rpp84,2009,New Jersey,113.3
-rpp85,2009,New Mexico,94.4
-rpp86,2009,New York,115.3
-rpp87,2009,North Carolina,92.1
-rpp88,2009,North Dakota,89
-rpp89,2009,Ohio,89.3
-rpp90,2009,Oklahoma,89.5
-rpp91,2009,Oregon,98.9
-rpp92,2009,Pennsylvania,98.2
-rpp93,2009,Rhode Island,100
-rpp94,2009,South Carolina,91.5
-rpp95,2009,South Dakota,85.8
-rpp96,2009,Tennessee,90.5
-rpp97,2009,Texas,96.4
-rpp98,2009,Utah,97.8
-rpp99,2009,Vermont,100.6
-rpp100,2009,Virginia,103.5
-rpp101,2009,Washington,103.7
-rpp102,2009,West Virginia,87.5
-rpp103,2009,Wisconsin,92.9
-rpp104,2009,Wyoming,96.1
-rpp105,2010,United States,100
-rpp106,2010,Alabama,87.9
-rpp107,2010,Alaska,105.5
-rpp108,2010,Arizona,98.6
-rpp109,2010,Arkansas,87.7
-rpp110,2010,California,113.6
-rpp111,2010,Colorado,100.9
-rpp112,2010,Connecticut,109.4
-rpp113,2010,Delaware,102.8
-rpp114,2010,District of Columbia,118.2
-rpp115,2010,Florida,99.1
-rpp116,2010,Georgia,92.3
-rpp117,2010,Hawaii,117.2
-rpp118,2010,Idaho,93.5
-rpp119,2010,Illinois,100.9
-rpp120,2010,Indiana,91.4
-rpp121,2010,Iowa,89.2
-rpp122,2010,Kansas,89.9
-rpp123,2010,Kentucky,88.6
-rpp124,2010,Louisiana,91.2
-rpp125,2010,Maine,96.8
-rpp126,2010,Maryland,111
-rpp127,2010,Massachusetts,108
-rpp128,2010,Michigan,94.7
-rpp129,2010,Minnesota,97.1
-rpp130,2010,Mississippi,86.7
-rpp131,2010,Missouri,88.3
-rpp132,2010,Montana,93.9
-rpp133,2010,Nebraska,90.3
-rpp134,2010,Nevada,99.9
-rpp135,2010,New Hampshire,106.5
-rpp136,2010,New Jersey,114.1
-rpp137,2010,New Mexico,94.6
-rpp138,2010,New York,115.2
-rpp139,2010,North Carolina,91.3
-rpp140,2010,North Dakota,89.2
-rpp141,2010,Ohio,89.8
-rpp142,2010,Oklahoma,89.6
-rpp143,2010,Oregon,98.5
-rpp144,2010,Pennsylvania,98.5
-rpp145,2010,Rhode Island,99.1
-rpp146,2010,South Carolina,90.4
-rpp147,2010,South Dakota,86.9
-rpp148,2010,Tennessee,90.2
-rpp149,2010,Texas,96.3
-rpp150,2010,Utah,96.9
-rpp151,2010,Vermont,99.5
-rpp152,2010,Virginia,103.1
-rpp153,2010,Washington,103
-rpp154,2010,West Virginia,88.4
-rpp155,2010,Wisconsin,92.8
-rpp156,2010,Wyoming,95.9
-rpp157,2011,United States,100
-rpp158,2011,Alabama,87.7
-rpp159,2011,Alaska,105.1
-rpp160,2011,Arizona,97.9
-rpp161,2011,Arkansas,87.6
-rpp162,2011,California,113.4
-rpp163,2011,Colorado,101.4
-rpp164,2011,Connecticut,109
-rpp165,2011,Delaware,101.8
-rpp166,2011,District of Columbia,117.8
-rpp167,2011,Florida,99.2
-rpp168,2011,Georgia,91.9
-rpp169,2011,Hawaii,116.9
-rpp170,2011,Idaho,93.3
-rpp171,2011,Illinois,101.1
-rpp172,2011,Indiana,91.7
-rpp173,2011,Iowa,90
-rpp174,2011,Kansas,90.7
-rpp175,2011,Kentucky,88.6
-rpp176,2011,Louisiana,91
-rpp177,2011,Maine,97.4
-rpp178,2011,Maryland,110.9
-rpp179,2011,Massachusetts,107.8
-rpp180,2011,Michigan,94.6
-rpp181,2011,Minnesota,97.2
-rpp182,2011,Mississippi,86.8
-rpp183,2011,Missouri,89.1
-rpp184,2011,Montana,93.8
-rpp185,2011,Nebraska,90.3
-rpp186,2011,Nevada,99.8
-rpp187,2011,New Hampshire,105.3
-rpp188,2011,New Jersey,114.6
-rpp189,2011,New Mexico,95.3
-rpp190,2011,New York,115.2
-rpp191,2011,North Carolina,91.5
-rpp192,2011,North Dakota,89.7
-rpp193,2011,Ohio,89.7
-rpp194,2011,Oklahoma,89.6
-rpp195,2011,Oregon,98.5
-rpp196,2011,Pennsylvania,98.4
-rpp197,2011,Rhode Island,99.4
-rpp198,2011,South Carolina,90.8
-rpp199,2011,South Dakota,87.3
-rpp200,2011,Tennessee,90.3
-rpp201,2011,Texas,96.2
-rpp202,2011,Utah,97.2
-rpp203,2011,Vermont,99.9
-rpp204,2011,Virginia,103
-rpp205,2011,Washington,102.9
-rpp206,2011,West Virginia,88.5
-rpp207,2011,Wisconsin,93.3
-rpp208,2011,Wyoming,96.7
-rpp209,2012,United States,100
-rpp210,2012,Alabama,88.1
-rpp211,2012,Alaska,105.4
-rpp212,2012,Arizona,97.1
-rpp213,2012,Arkansas,87.8
-rpp214,2012,California,112.9
-rpp215,2012,Colorado,101.1
-rpp216,2012,Connecticut,109.2
-rpp217,2012,Delaware,101.2
-rpp218,2012,District of Columbia,117.7
-rpp219,2012,Florida,99.1
-rpp220,2012,Georgia,92.2
-rpp221,2012,Hawaii,117.8
-rpp222,2012,Idaho,93.4
-rpp223,2012,Illinois,100.7
-rpp224,2012,Indiana,91.4
-rpp225,2012,Iowa,90.2
-rpp226,2012,Kansas,90.6
-rpp227,2012,Kentucky,88.8
-rpp228,2012,Louisiana,91.4
-rpp229,2012,Maine,98.4
-rpp230,2012,Maryland,110.1
-rpp231,2012,Massachusetts,106.6
-rpp232,2012,Michigan,94.5
-rpp233,2012,Minnesota,97.6
-rpp234,2012,Mississippi,86.5
-rpp235,2012,Missouri,89.3
-rpp236,2012,Montana,93.5
-rpp237,2012,Nebraska,90.6
-rpp238,2012,Nevada,98.7
-rpp239,2012,New Hampshire,105.6
-rpp240,2012,New Jersey,114.4
-rpp241,2012,New Mexico,95
-rpp242,2012,New York,115.3
-rpp243,2012,North Carolina,91.7
-rpp244,2012,North Dakota,91
-rpp245,2012,Ohio,89.4
-rpp246,2012,Oklahoma,89.9
-rpp247,2012,Oregon,98.7
-rpp248,2012,Pennsylvania,98.4
-rpp249,2012,Rhode Island,98.8
-rpp250,2012,South Carolina,90.8
-rpp251,2012,South Dakota,88.9
-rpp252,2012,Tennessee,90.8
-rpp253,2012,Texas,96.2
-rpp254,2012,Utah,97.1
-rpp255,2012,Vermont,100.8
-rpp256,2012,Virginia,103
-rpp257,2012,Washington,103.5
-rpp258,2012,West Virginia,88.6
-rpp259,2012,Wisconsin,93.5
-rpp260,2012,Wyoming,95.8
-rpp261,2013,United States,100
-rpp262,2013,Alabama,87.8
-rpp263,2013,Alaska,104.9
-rpp264,2013,Arizona,96.5
-rpp265,2013,Arkansas,87.8
-rpp266,2013,California,113.1
-rpp267,2013,Colorado,102.1
-rpp268,2013,Connecticut,108.5
-rpp269,2013,Delaware,100.6
-rpp270,2013,District of Columbia,117
-rpp271,2013,Florida,99.2
-rpp272,2013,Georgia,92.3
-rpp273,2013,Hawaii,118.3
-rpp274,2013,Idaho,93.2
-rpp275,2013,Illinois,99.7
-rpp276,2013,Indiana,91.3
-rpp277,2013,Iowa,90.6
-rpp278,2013,Kansas,91.3
-rpp279,2013,Kentucky,89.3
-rpp280,2013,Louisiana,91.2
-rpp281,2013,Maine,98.5
-rpp282,2013,Maryland,109.9
-rpp283,2013,Massachusetts,106.7
-rpp284,2013,Michigan,94.3
-rpp285,2013,Minnesota,97.5
-rpp286,2013,Mississippi,87.2
-rpp287,2013,Missouri,89.9
-rpp288,2013,Montana,94.6
-rpp289,2013,Nebraska,90.7
-rpp290,2013,Nevada,98.7
-rpp291,2013,New Hampshire,105.4
-rpp292,2013,New Jersey,113.4
-rpp293,2013,New Mexico,95.3
-rpp294,2013,New York,115.2
-rpp295,2013,North Carolina,91.8
-rpp296,2013,North Dakota,91.7
-rpp297,2013,Ohio,89.5
-rpp298,2013,Oklahoma,90
-rpp299,2013,Oregon,98.9
-rpp300,2013,Pennsylvania,98.6
-rpp301,2013,Rhode Island,98.8
-rpp302,2013,South Carolina,90.5
-rpp303,2013,South Dakota,88
-rpp304,2013,Tennessee,90.7
-rpp305,2013,Texas,96.3
-rpp306,2013,Utah,97.7
-rpp307,2013,Vermont,100.9
-rpp308,2013,Virginia,102.8
-rpp309,2013,Washington,104.2
-rpp310,2013,West Virginia,88.6
-rpp311,2013,Wisconsin,93.2
-rpp312,2013,Wyoming,96
-rpp313,2014,United States,100
-rpp314,2014,Alabama,87.1
-rpp315,2014,Alaska,106.3
-rpp316,2014,Arizona,96
-rpp317,2014,Arkansas,86.9
-rpp318,2014,California,113.7
-rpp319,2014,Colorado,102
-rpp320,2014,Connecticut,108.6
-rpp321,2014,Delaware,101.1
-rpp322,2014,District of Columbia,118.2
-rpp323,2014,Florida,99.4
-rpp324,2014,Georgia,92
-rpp325,2014,Hawaii,118.4
-rpp326,2014,Idaho,93.6
-rpp327,2014,Illinois,99.3
-rpp328,2014,Indiana,90.8
-rpp329,2014,Iowa,90.3
-rpp330,2014,Kansas,90.9
-rpp331,2014,Kentucky,88.3
-rpp332,2014,Louisiana,90.9
-rpp333,2014,Maine,98
-rpp334,2014,Maryland,110.2
-rpp335,2014,Massachusetts,107.3
-rpp336,2014,Michigan,93.6
-rpp337,2014,Minnesota,97.5
-rpp338,2014,Mississippi,86.2
-rpp339,2014,Missouri,89.8
-rpp340,2014,Montana,94.7
-rpp341,2014,Nebraska,90.5
-rpp342,2014,Nevada,97.5
-rpp343,2014,New Hampshire,105.7
-rpp344,2014,New Jersey,113.8
-rpp345,2014,New Mexico,94.7
-rpp346,2014,New York,115.7
-rpp347,2014,North Carolina,91.4
-rpp348,2014,North Dakota,91.6
-rpp349,2014,Ohio,89.4
-rpp350,2014,Oklahoma,89.5
-rpp351,2014,Oregon,98.8
-rpp352,2014,Pennsylvania,98.1
-rpp353,2014,Rhode Island,99.8
-rpp354,2014,South Carolina,90
-rpp355,2014,South Dakota,88
-rpp356,2014,Tennessee,89.8
-rpp357,2014,Texas,96.5
-rpp358,2014,Utah,96.8
-rpp359,2014,Vermont,102.5
-rpp360,2014,Virginia,102.7
-rpp361,2014,Washington,104.9
-rpp362,2014,West Virginia,88.2
-rpp363,2014,Wisconsin,93.3
-rpp364,2014,Wyoming,96.8
-rpp365,2015,United States,100
-rpp366,2015,Alabama,86.8
-rpp367,2015,Alaska,105.5
-rpp368,2015,Arizona,96.1
-rpp369,2015,Arkansas,87.4
-rpp370,2015,California,113.8
-rpp371,2015,Colorado,102.3
-rpp372,2015,Connecticut,108.5
-rpp373,2015,Delaware,100
-rpp374,2015,District of Columbia,116.8
-rpp375,2015,Florida,99.5
-rpp376,2015,Georgia,92.8
-rpp377,2015,Hawaii,119.2
-rpp378,2015,Idaho,93.3
-rpp379,2015,Illinois,99
-rpp380,2015,Indiana,90.1
-rpp381,2015,Iowa,89.9
-rpp382,2015,Kansas,90.2
-rpp383,2015,Kentucky,88.7
-rpp384,2015,Louisiana,90.5
-rpp385,2015,Maine,99.1
-rpp386,2015,Maryland,109.6
-rpp387,2015,Massachusetts,107.6
-rpp388,2015,Michigan,93
-rpp389,2015,Minnesota,97.2
-rpp390,2015,Mississippi,86.2
-rpp391,2015,Missouri,89.6
-rpp392,2015,Montana,95.1
-rpp393,2015,Nebraska,90.2
-rpp394,2015,Nevada,97.3
-rpp395,2015,New Hampshire,105.7
-rpp396,2015,New Jersey,113.4
-rpp397,2015,New Mexico,93.8
-rpp398,2015,New York,115.8
-rpp399,2015,North Carolina,91.2
-rpp400,2015,North Dakota,92
-rpp401,2015,Ohio,89.2
-rpp402,2015,Oklahoma,89.8
-rpp403,2015,Oregon,98.5
-rpp404,2015,Pennsylvania,98.2
-rpp405,2015,Rhode Island,99.9
-rpp406,2015,South Carolina,90.3
-rpp407,2015,South Dakota,88
-rpp408,2015,Tennessee,89.9
-rpp409,2015,Texas,96.7
-rpp410,2015,Utah,96.4
-rpp411,2015,Vermont,102.7
-rpp412,2015,Virginia,102.6
-rpp413,2015,Washington,105.2
-rpp414,2015,West Virginia,88.7
-rpp415,2015,Wisconsin,93
-rpp416,2015,Wyoming,96.4
-rpp417,2016,United States,100
-rpp418,2016,Alabama,86.1
-rpp419,2016,Alaska,105.7
-rpp420,2016,Arizona,95.8
-rpp421,2016,Arkansas,86.8
-rpp422,2016,California,114.7
-rpp423,2016,Colorado,101.7
-rpp424,2016,Connecticut,107.3
-rpp425,2016,Delaware,100
-rpp426,2016,District of Columbia,114.6
-rpp427,2016,Florida,100.1
-rpp428,2016,Georgia,92.7
-rpp429,2016,Hawaii,118.9
-rpp430,2016,Idaho,92.2
-rpp431,2016,Illinois,98.7
-rpp432,2016,Indiana,89.7
-rpp433,2016,Iowa,90
-rpp434,2016,Kansas,90.1
-rpp435,2016,Kentucky,87.5
-rpp436,2016,Louisiana,89.9
-rpp437,2016,Maine,99.4
-rpp438,2016,Maryland,109
-rpp439,2016,Massachusetts,109.2
-rpp440,2016,Michigan,92.8
-rpp441,2016,Minnesota,97.8
-rpp442,2016,Mississippi,86
-rpp443,2016,Missouri,89.5
-rpp444,2016,Montana,93.4
-rpp445,2016,Nebraska,90.1
-rpp446,2016,Nevada,96
-rpp447,2016,New Hampshire,106.8
-rpp448,2016,New Jersey,114.1
-rpp449,2016,New Mexico,92.4
-rpp450,2016,New York,116.4
-rpp451,2016,North Carolina,91.3
-rpp452,2016,North Dakota,91.4
-rpp453,2016,Ohio,89.1
-rpp454,2016,Oklahoma,88.7
-rpp455,2016,Oregon,100.5
-rpp456,2016,Pennsylvania,98.1
-rpp457,2016,Rhode Island,100.6
-rpp458,2016,South Carolina,90.7
-rpp459,2016,South Dakota,88.3
-rpp460,2016,Tennessee,89.6
-rpp461,2016,Texas,96.6
-rpp462,2016,Utah,96
-rpp463,2016,Vermont,102.6
-rpp464,2016,Virginia,102.2
-rpp465,2016,Washington,106.1
-rpp466,2016,West Virginia,87.8
-rpp467,2016,Wisconsin,92.6
-rpp468,2016,Wyoming,95.9
-rpp469,2017,United States,100
-rpp470,2017,Alabama,85.5
-rpp471,2017,Alaska,105.9
-rpp472,2017,Arizona,95.9
-rpp473,2017,Arkansas,85.7
-rpp474,2017,California,115.8
-rpp475,2017,Colorado,101.6
-rpp476,2017,Connecticut,106.2
-rpp477,2017,Delaware,99.8
-rpp478,2017,District of Columbia,115.1
-rpp479,2017,Florida,100.3
-rpp480,2017,Georgia,92.9
-rpp481,2017,Hawaii,119.2
-rpp482,2017,Idaho,91.7
-rpp483,2017,Illinois,98.2
-rpp484,2017,Indiana,89.6
-rpp485,2017,Iowa,90.2
-rpp486,2017,Kansas,90
-rpp487,2017,Kentucky,87.1
-rpp488,2017,Louisiana,88.9
-rpp489,2017,Maine,99.6
-rpp490,2017,Maryland,108.3
-rpp491,2017,Massachusetts,109.6
-rpp492,2017,Michigan,92.7
-rpp493,2017,Minnesota,98.2
-rpp494,2017,Mississippi,84.8
-rpp495,2017,Missouri,89.5
-rpp496,2017,Montana,93.4
-rpp497,2017,Nebraska,89.9
-rpp498,2017,Nevada,95.8
-rpp499,2017,New Hampshire,107
-rpp500,2017,New Jersey,114.6
-rpp501,2017,New Mexico,91.8
-rpp502,2017,New York,116.3
-rpp503,2017,North Carolina,91.5
-rpp504,2017,North Dakota,90.6
-rpp505,2017,Ohio,88.9
-rpp506,2017,Oklahoma,88
-rpp507,2017,Oregon,101.3
-rpp508,2017,Pennsylvania,97.2
-rpp509,2017,Rhode Island,99.8
-rpp510,2017,South Carolina,90.6
-rpp511,2017,South Dakota,88.7
-rpp512,2017,Tennessee,89.1
-rpp513,2017,Texas,96.5
-rpp514,2017,Utah,95.3
-rpp515,2017,Vermont,103.8
-rpp516,2017,Virginia,101.6
-rpp517,2017,Washington,107.5
-rpp518,2017,West Virginia,87.2
-rpp519,2017,Wisconsin,92.4
-rpp520,2017,Wyoming,94
-rpp521,2018,United States,100
-rpp522,2018,Alabama,85.9
-rpp523,2018,Alaska,105.7
-rpp524,2018,Arizona,96.4
-rpp525,2018,Arkansas,84.7
-rpp526,2018,California,116.2
-rpp527,2018,Colorado,101.3
-rpp528,2018,Connecticut,105.5
-rpp529,2018,Delaware,98.7
-rpp530,2018,District of Columbia,115.2
-rpp531,2018,Florida,100.7
-rpp532,2018,Georgia,93.1
-rpp533,2018,Hawaii,118.5
-rpp534,2018,Idaho,92
-rpp535,2018,Illinois,97.8
-rpp536,2018,Indiana,89.2
-rpp537,2018,Iowa,89.4
-rpp538,2018,Kansas,90
-rpp539,2018,Kentucky,87.5
-rpp540,2018,Louisiana,88.5
-rpp541,2018,Maine,100.6
-rpp542,2018,Maryland,107.7
-rpp543,2018,Massachusetts,110.3
-rpp544,2018,Michigan,92.3
-rpp545,2018,Minnesota,97.7
-rpp546,2018,Mississippi,85.6
-rpp547,2018,Missouri,88.7
-rpp548,2018,Montana,92.9
-rpp549,2018,Nebraska,89.6
-rpp550,2018,Nevada,96.8
-rpp551,2018,New Hampshire,106.4
-rpp552,2018,New Jersey,116.1
-rpp553,2018,New Mexico,90.5
-rpp554,2018,New York,116.7
-rpp555,2018,North Carolina,91.7
-rpp556,2018,North Dakota,90.7
-rpp557,2018,Ohio,88.5
-rpp558,2018,Oklahoma,87.7
-rpp559,2018,Oregon,101.8
-rpp560,2018,Pennsylvania,97.1
-rpp561,2018,Rhode Island,99.9
-rpp562,2018,South Carolina,91
-rpp563,2018,South Dakota,88.1
-rpp564,2018,Tennessee,89.3
-rpp565,2018,Texas,96.5
-rpp566,2018,Utah,96
-rpp567,2018,Vermont,103.7
-rpp568,2018,Virginia,101.6
-rpp569,2018,Washington,108.6
-rpp570,2018,West Virginia,87.7
-rpp571,2018,Wisconsin,91.9
-rpp572,2018,Wyoming,92.3
-rpp573,2019,United States,100
-rpp574,2019,Alabama,85.8
-rpp575,2019,Alaska,105.1
-rpp576,2019,Arizona,96.3
-rpp577,2019,Arkansas,84.7
-rpp578,2019,California,116.4
-rpp579,2019,Colorado,101.9
-rpp580,2019,Connecticut,105
-rpp581,2019,Delaware,99.4
-rpp582,2019,District of Columbia,115.2
-rpp583,2019,Florida,101
-rpp584,2019,Georgia,93.2
-rpp585,2019,Hawaii,119.3
-rpp586,2019,Idaho,92.2
-rpp587,2019,Illinois,97.4
-rpp588,2019,Indiana,88.7
-rpp589,2019,Iowa,89
-rpp590,2019,Kansas,89.2
-rpp591,2019,Kentucky,87.4
-rpp592,2019,Louisiana,87.9
-rpp593,2019,Maine,99.3
-rpp594,2019,Maryland,107.7
-rpp595,2019,Massachusetts,110.4
-rpp596,2019,Michigan,92.3
-rpp597,2019,Minnesota,98
-rpp598,2019,Mississippi,84.4
-rpp599,2019,Missouri,88.7
-rpp600,2019,Montana,93.5
-rpp601,2019,Nebraska,89.5
-rpp602,2019,Nevada,97.4
-rpp603,2019,New Hampshire,106.5
-rpp604,2019,New Jersey,116
-rpp605,2019,New Mexico,91.1
-rpp606,2019,New York,116.3
-rpp607,2019,North Carolina,91.7
-rpp608,2019,North Dakota,89.3
-rpp609,2019,Ohio,88.4
-rpp610,2019,Oklahoma,87.2
-rpp611,2019,Oregon,102.2
-rpp612,2019,Pennsylvania,97
-rpp613,2019,Rhode Island,101.3
-rpp614,2019,South Carolina,91.5
-rpp615,2019,South Dakota,87.8
-rpp616,2019,Tennessee,89.7
-rpp617,2019,Texas,96.5
-rpp618,2019,Utah,96.5
-rpp619,2019,Vermont,103.1
-rpp620,2019,Virginia,101.3
-rpp621,2019,Washington,108.4
-rpp622,2019,West Virginia,87.1
-rpp623,2019,Wisconsin,91.9
-rpp624,2019,Wyoming,92.8
+year,State,Regional Price Parities 
+2008,United States,100
+2008,Alabama,87.6
+2008,Alaska,106.9
+2008,Arizona,100.6
+2008,Arkansas,86.9
+2008,California,113.1
+2008,Colorado,100.4
+2008,Connecticut,110.7
+2008,Delaware,102
+2008,District of Columbia,115.6
+2008,Florida,100.8
+2008,Georgia,93.5
+2008,Hawaii,118.1
+2008,Idaho,95.2
+2008,Illinois,100.2
+2008,Indiana,91.2
+2008,Iowa,88.6
+2008,Kansas,89.3
+2008,Kentucky,88.9
+2008,Louisiana,90.7
+2008,Maine,98
+2008,Maryland,110.3
+2008,Massachusetts,108.3
+2008,Michigan,95.4
+2008,Minnesota,97.4
+2008,Mississippi,86.4
+2008,Missouri,87.8
+2008,Montana,95.3
+2008,Nebraska,89.7
+2008,Nevada,100.8
+2008,New Hampshire,107.2
+2008,New Jersey,112.9
+2008,New Mexico,94.4
+2008,New York,115.1
+2008,North Carolina,92
+2008,North Dakota,88.5
+2008,Ohio,90
+2008,Oklahoma,88.9
+2008,Oregon,98.3
+2008,Pennsylvania,98.2
+2008,Rhode Island,100.2
+2008,South Carolina,91.1
+2008,South Dakota,86.9
+2008,Tennessee,90.5
+2008,Texas,96.5
+2008,Utah,96.8
+2008,Vermont,100.4
+2008,Virginia,102.8
+2008,Washington,103.2
+2008,West Virginia,87
+2008,Wisconsin,93
+2008,Wyoming,96.1
+2009,United States,100
+2009,Alabama,87.5
+2009,Alaska,106.9
+2009,Arizona,100.1
+2009,Arkansas,86.6
+2009,California,112.9
+2009,Colorado,101.1
+2009,Connecticut,110.4
+2009,Delaware,103.2
+2009,District of Columbia,116.4
+2009,Florida,100
+2009,Georgia,93.1
+2009,Hawaii,117.1
+2009,Idaho,94.8
+2009,Illinois,100.9
+2009,Indiana,91.4
+2009,Iowa,89
+2009,Kansas,89.6
+2009,Kentucky,88.7
+2009,Louisiana,91.4
+2009,Maine,98.1
+2009,Maryland,111.3
+2009,Massachusetts,108
+2009,Michigan,95.2
+2009,Minnesota,97.7
+2009,Mississippi,85.8
+2009,Missouri,87.9
+2009,Montana,94.5
+2009,Nebraska,89.6
+2009,Nevada,100.7
+2009,New Hampshire,106.4
+2009,New Jersey,113.3
+2009,New Mexico,94.4
+2009,New York,115.3
+2009,North Carolina,92.1
+2009,North Dakota,89
+2009,Ohio,89.3
+2009,Oklahoma,89.5
+2009,Oregon,98.9
+2009,Pennsylvania,98.2
+2009,Rhode Island,100
+2009,South Carolina,91.5
+2009,South Dakota,85.8
+2009,Tennessee,90.5
+2009,Texas,96.4
+2009,Utah,97.8
+2009,Vermont,100.6
+2009,Virginia,103.5
+2009,Washington,103.7
+2009,West Virginia,87.5
+2009,Wisconsin,92.9
+2009,Wyoming,96.1
+2010,United States,100
+2010,Alabama,87.9
+2010,Alaska,105.5
+2010,Arizona,98.6
+2010,Arkansas,87.7
+2010,California,113.6
+2010,Colorado,100.9
+2010,Connecticut,109.4
+2010,Delaware,102.8
+2010,District of Columbia,118.2
+2010,Florida,99.1
+2010,Georgia,92.3
+2010,Hawaii,117.2
+2010,Idaho,93.5
+2010,Illinois,100.9
+2010,Indiana,91.4
+2010,Iowa,89.2
+2010,Kansas,89.9
+2010,Kentucky,88.6
+2010,Louisiana,91.2
+2010,Maine,96.8
+2010,Maryland,111
+2010,Massachusetts,108
+2010,Michigan,94.7
+2010,Minnesota,97.1
+2010,Mississippi,86.7
+2010,Missouri,88.3
+2010,Montana,93.9
+2010,Nebraska,90.3
+2010,Nevada,99.9
+2010,New Hampshire,106.5
+2010,New Jersey,114.1
+2010,New Mexico,94.6
+2010,New York,115.2
+2010,North Carolina,91.3
+2010,North Dakota,89.2
+2010,Ohio,89.8
+2010,Oklahoma,89.6
+2010,Oregon,98.5
+2010,Pennsylvania,98.5
+2010,Rhode Island,99.1
+2010,South Carolina,90.4
+2010,South Dakota,86.9
+2010,Tennessee,90.2
+2010,Texas,96.3
+2010,Utah,96.9
+2010,Vermont,99.5
+2010,Virginia,103.1
+2010,Washington,103
+2010,West Virginia,88.4
+2010,Wisconsin,92.8
+2010,Wyoming,95.9
+2011,United States,100
+2011,Alabama,87.7
+2011,Alaska,105.1
+2011,Arizona,97.9
+2011,Arkansas,87.6
+2011,California,113.4
+2011,Colorado,101.4
+2011,Connecticut,109
+2011,Delaware,101.8
+2011,District of Columbia,117.8
+2011,Florida,99.2
+2011,Georgia,91.9
+2011,Hawaii,116.9
+2011,Idaho,93.3
+2011,Illinois,101.1
+2011,Indiana,91.7
+2011,Iowa,90
+2011,Kansas,90.7
+2011,Kentucky,88.6
+2011,Louisiana,91
+2011,Maine,97.4
+2011,Maryland,110.9
+2011,Massachusetts,107.8
+2011,Michigan,94.6
+2011,Minnesota,97.2
+2011,Mississippi,86.8
+2011,Missouri,89.1
+2011,Montana,93.8
+2011,Nebraska,90.3
+2011,Nevada,99.8
+2011,New Hampshire,105.3
+2011,New Jersey,114.6
+2011,New Mexico,95.3
+2011,New York,115.2
+2011,North Carolina,91.5
+2011,North Dakota,89.7
+2011,Ohio,89.7
+2011,Oklahoma,89.6
+2011,Oregon,98.5
+2011,Pennsylvania,98.4
+2011,Rhode Island,99.4
+2011,South Carolina,90.8
+2011,South Dakota,87.3
+2011,Tennessee,90.3
+2011,Texas,96.2
+2011,Utah,97.2
+2011,Vermont,99.9
+2011,Virginia,103
+2011,Washington,102.9
+2011,West Virginia,88.5
+2011,Wisconsin,93.3
+2011,Wyoming,96.7
+2012,United States,100
+2012,Alabama,88.1
+2012,Alaska,105.4
+2012,Arizona,97.1
+2012,Arkansas,87.8
+2012,California,112.9
+2012,Colorado,101.1
+2012,Connecticut,109.2
+2012,Delaware,101.2
+2012,District of Columbia,117.7
+2012,Florida,99.1
+2012,Georgia,92.2
+2012,Hawaii,117.8
+2012,Idaho,93.4
+2012,Illinois,100.7
+2012,Indiana,91.4
+2012,Iowa,90.2
+2012,Kansas,90.6
+2012,Kentucky,88.8
+2012,Louisiana,91.4
+2012,Maine,98.4
+2012,Maryland,110.1
+2012,Massachusetts,106.6
+2012,Michigan,94.5
+2012,Minnesota,97.6
+2012,Mississippi,86.5
+2012,Missouri,89.3
+2012,Montana,93.5
+2012,Nebraska,90.6
+2012,Nevada,98.7
+2012,New Hampshire,105.6
+2012,New Jersey,114.4
+2012,New Mexico,95
+2012,New York,115.3
+2012,North Carolina,91.7
+2012,North Dakota,91
+2012,Ohio,89.4
+2012,Oklahoma,89.9
+2012,Oregon,98.7
+2012,Pennsylvania,98.4
+2012,Rhode Island,98.8
+2012,South Carolina,90.8
+2012,South Dakota,88.9
+2012,Tennessee,90.8
+2012,Texas,96.2
+2012,Utah,97.1
+2012,Vermont,100.8
+2012,Virginia,103
+2012,Washington,103.5
+2012,West Virginia,88.6
+2012,Wisconsin,93.5
+2012,Wyoming,95.8
+2013,United States,100
+2013,Alabama,87.8
+2013,Alaska,104.9
+2013,Arizona,96.5
+2013,Arkansas,87.8
+2013,California,113.1
+2013,Colorado,102.1
+2013,Connecticut,108.5
+2013,Delaware,100.6
+2013,District of Columbia,117
+2013,Florida,99.2
+2013,Georgia,92.3
+2013,Hawaii,118.3
+2013,Idaho,93.2
+2013,Illinois,99.7
+2013,Indiana,91.3
+2013,Iowa,90.6
+2013,Kansas,91.3
+2013,Kentucky,89.3
+2013,Louisiana,91.2
+2013,Maine,98.5
+2013,Maryland,109.9
+2013,Massachusetts,106.7
+2013,Michigan,94.3
+2013,Minnesota,97.5
+2013,Mississippi,87.2
+2013,Missouri,89.9
+2013,Montana,94.6
+2013,Nebraska,90.7
+2013,Nevada,98.7
+2013,New Hampshire,105.4
+2013,New Jersey,113.4
+2013,New Mexico,95.3
+2013,New York,115.2
+2013,North Carolina,91.8
+2013,North Dakota,91.7
+2013,Ohio,89.5
+2013,Oklahoma,90
+2013,Oregon,98.9
+2013,Pennsylvania,98.6
+2013,Rhode Island,98.8
+2013,South Carolina,90.5
+2013,South Dakota,88
+2013,Tennessee,90.7
+2013,Texas,96.3
+2013,Utah,97.7
+2013,Vermont,100.9
+2013,Virginia,102.8
+2013,Washington,104.2
+2013,West Virginia,88.6
+2013,Wisconsin,93.2
+2013,Wyoming,96
+2014,United States,100
+2014,Alabama,87.1
+2014,Alaska,106.3
+2014,Arizona,96
+2014,Arkansas,86.9
+2014,California,113.7
+2014,Colorado,102
+2014,Connecticut,108.6
+2014,Delaware,101.1
+2014,District of Columbia,118.2
+2014,Florida,99.4
+2014,Georgia,92
+2014,Hawaii,118.4
+2014,Idaho,93.6
+2014,Illinois,99.3
+2014,Indiana,90.8
+2014,Iowa,90.3
+2014,Kansas,90.9
+2014,Kentucky,88.3
+2014,Louisiana,90.9
+2014,Maine,98
+2014,Maryland,110.2
+2014,Massachusetts,107.3
+2014,Michigan,93.6
+2014,Minnesota,97.5
+2014,Mississippi,86.2
+2014,Missouri,89.8
+2014,Montana,94.7
+2014,Nebraska,90.5
+2014,Nevada,97.5
+2014,New Hampshire,105.7
+2014,New Jersey,113.8
+2014,New Mexico,94.7
+2014,New York,115.7
+2014,North Carolina,91.4
+2014,North Dakota,91.6
+2014,Ohio,89.4
+2014,Oklahoma,89.5
+2014,Oregon,98.8
+2014,Pennsylvania,98.1
+2014,Rhode Island,99.8
+2014,South Carolina,90
+2014,South Dakota,88
+2014,Tennessee,89.8
+2014,Texas,96.5
+2014,Utah,96.8
+2014,Vermont,102.5
+2014,Virginia,102.7
+2014,Washington,104.9
+2014,West Virginia,88.2
+2014,Wisconsin,93.3
+2014,Wyoming,96.8
+2015,United States,100
+2015,Alabama,86.8
+2015,Alaska,105.5
+2015,Arizona,96.1
+2015,Arkansas,87.4
+2015,California,113.8
+2015,Colorado,102.3
+2015,Connecticut,108.5
+2015,Delaware,100
+2015,District of Columbia,116.8
+2015,Florida,99.5
+2015,Georgia,92.8
+2015,Hawaii,119.2
+2015,Idaho,93.3
+2015,Illinois,99
+2015,Indiana,90.1
+2015,Iowa,89.9
+2015,Kansas,90.2
+2015,Kentucky,88.7
+2015,Louisiana,90.5
+2015,Maine,99.1
+2015,Maryland,109.6
+2015,Massachusetts,107.6
+2015,Michigan,93
+2015,Minnesota,97.2
+2015,Mississippi,86.2
+2015,Missouri,89.6
+2015,Montana,95.1
+2015,Nebraska,90.2
+2015,Nevada,97.3
+2015,New Hampshire,105.7
+2015,New Jersey,113.4
+2015,New Mexico,93.8
+2015,New York,115.8
+2015,North Carolina,91.2
+2015,North Dakota,92
+2015,Ohio,89.2
+2015,Oklahoma,89.8
+2015,Oregon,98.5
+2015,Pennsylvania,98.2
+2015,Rhode Island,99.9
+2015,South Carolina,90.3
+2015,South Dakota,88
+2015,Tennessee,89.9
+2015,Texas,96.7
+2015,Utah,96.4
+2015,Vermont,102.7
+2015,Virginia,102.6
+2015,Washington,105.2
+2015,West Virginia,88.7
+2015,Wisconsin,93
+2015,Wyoming,96.4
+2016,United States,100
+2016,Alabama,86.1
+2016,Alaska,105.7
+2016,Arizona,95.8
+2016,Arkansas,86.8
+2016,California,114.7
+2016,Colorado,101.7
+2016,Connecticut,107.3
+2016,Delaware,100
+2016,District of Columbia,114.6
+2016,Florida,100.1
+2016,Georgia,92.7
+2016,Hawaii,118.9
+2016,Idaho,92.2
+2016,Illinois,98.7
+2016,Indiana,89.7
+2016,Iowa,90
+2016,Kansas,90.1
+2016,Kentucky,87.5
+2016,Louisiana,89.9
+2016,Maine,99.4
+2016,Maryland,109
+2016,Massachusetts,109.2
+2016,Michigan,92.8
+2016,Minnesota,97.8
+2016,Mississippi,86
+2016,Missouri,89.5
+2016,Montana,93.4
+2016,Nebraska,90.1
+2016,Nevada,96
+2016,New Hampshire,106.8
+2016,New Jersey,114.1
+2016,New Mexico,92.4
+2016,New York,116.4
+2016,North Carolina,91.3
+2016,North Dakota,91.4
+2016,Ohio,89.1
+2016,Oklahoma,88.7
+2016,Oregon,100.5
+2016,Pennsylvania,98.1
+2016,Rhode Island,100.6
+2016,South Carolina,90.7
+2016,South Dakota,88.3
+2016,Tennessee,89.6
+2016,Texas,96.6
+2016,Utah,96
+2016,Vermont,102.6
+2016,Virginia,102.2
+2016,Washington,106.1
+2016,West Virginia,87.8
+2016,Wisconsin,92.6
+2016,Wyoming,95.9
+2017,United States,100
+2017,Alabama,85.5
+2017,Alaska,105.9
+2017,Arizona,95.9
+2017,Arkansas,85.7
+2017,California,115.8
+2017,Colorado,101.6
+2017,Connecticut,106.2
+2017,Delaware,99.8
+2017,District of Columbia,115.1
+2017,Florida,100.3
+2017,Georgia,92.9
+2017,Hawaii,119.2
+2017,Idaho,91.7
+2017,Illinois,98.2
+2017,Indiana,89.6
+2017,Iowa,90.2
+2017,Kansas,90
+2017,Kentucky,87.1
+2017,Louisiana,88.9
+2017,Maine,99.6
+2017,Maryland,108.3
+2017,Massachusetts,109.6
+2017,Michigan,92.7
+2017,Minnesota,98.2
+2017,Mississippi,84.8
+2017,Missouri,89.5
+2017,Montana,93.4
+2017,Nebraska,89.9
+2017,Nevada,95.8
+2017,New Hampshire,107
+2017,New Jersey,114.6
+2017,New Mexico,91.8
+2017,New York,116.3
+2017,North Carolina,91.5
+2017,North Dakota,90.6
+2017,Ohio,88.9
+2017,Oklahoma,88
+2017,Oregon,101.3
+2017,Pennsylvania,97.2
+2017,Rhode Island,99.8
+2017,South Carolina,90.6
+2017,South Dakota,88.7
+2017,Tennessee,89.1
+2017,Texas,96.5
+2017,Utah,95.3
+2017,Vermont,103.8
+2017,Virginia,101.6
+2017,Washington,107.5
+2017,West Virginia,87.2
+2017,Wisconsin,92.4
+2017,Wyoming,94
+2018,United States,100
+2018,Alabama,85.9
+2018,Alaska,105.7
+2018,Arizona,96.4
+2018,Arkansas,84.7
+2018,California,116.2
+2018,Colorado,101.3
+2018,Connecticut,105.5
+2018,Delaware,98.7
+2018,District of Columbia,115.2
+2018,Florida,100.7
+2018,Georgia,93.1
+2018,Hawaii,118.5
+2018,Idaho,92
+2018,Illinois,97.8
+2018,Indiana,89.2
+2018,Iowa,89.4
+2018,Kansas,90
+2018,Kentucky,87.5
+2018,Louisiana,88.5
+2018,Maine,100.6
+2018,Maryland,107.7
+2018,Massachusetts,110.3
+2018,Michigan,92.3
+2018,Minnesota,97.7
+2018,Mississippi,85.6
+2018,Missouri,88.7
+2018,Montana,92.9
+2018,Nebraska,89.6
+2018,Nevada,96.8
+2018,New Hampshire,106.4
+2018,New Jersey,116.1
+2018,New Mexico,90.5
+2018,New York,116.7
+2018,North Carolina,91.7
+2018,North Dakota,90.7
+2018,Ohio,88.5
+2018,Oklahoma,87.7
+2018,Oregon,101.8
+2018,Pennsylvania,97.1
+2018,Rhode Island,99.9
+2018,South Carolina,91
+2018,South Dakota,88.1
+2018,Tennessee,89.3
+2018,Texas,96.5
+2018,Utah,96
+2018,Vermont,103.7
+2018,Virginia,101.6
+2018,Washington,108.6
+2018,West Virginia,87.7
+2018,Wisconsin,91.9
+2018,Wyoming,92.3
+2019,United States,100
+2019,Alabama,85.8
+2019,Alaska,105.1
+2019,Arizona,96.3
+2019,Arkansas,84.7
+2019,California,116.4
+2019,Colorado,101.9
+2019,Connecticut,105
+2019,Delaware,99.4
+2019,District of Columbia,115.2
+2019,Florida,101
+2019,Georgia,93.2
+2019,Hawaii,119.3
+2019,Idaho,92.2
+2019,Illinois,97.4
+2019,Indiana,88.7
+2019,Iowa,89
+2019,Kansas,89.2
+2019,Kentucky,87.4
+2019,Louisiana,87.9
+2019,Maine,99.3
+2019,Maryland,107.7
+2019,Massachusetts,110.4
+2019,Michigan,92.3
+2019,Minnesota,98
+2019,Mississippi,84.4
+2019,Missouri,88.7
+2019,Montana,93.5
+2019,Nebraska,89.5
+2019,Nevada,97.4
+2019,New Hampshire,106.5
+2019,New Jersey,116
+2019,New Mexico,91.1
+2019,New York,116.3
+2019,North Carolina,91.7
+2019,North Dakota,89.3
+2019,Ohio,88.4
+2019,Oklahoma,87.2
+2019,Oregon,102.2
+2019,Pennsylvania,97
+2019,Rhode Island,101.3
+2019,South Carolina,91.5
+2019,South Dakota,87.8
+2019,Tennessee,89.7
+2019,Texas,96.5
+2019,Utah,96.5
+2019,Vermont,103.1
+2019,Virginia,101.3
+2019,Washington,108.4
+2019,West Virginia,87.1
+2019,Wisconsin,91.9
+2019,Wyoming,92.8
