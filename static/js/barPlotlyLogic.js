@@ -1,4 +1,30 @@
+google.charts.load('current', {
+  'packages':['geochart']
+});
+var expendData;
 var data;
+
+function drawRegionsMap() {
+  var data = google.visualization.arrayToDataTable([
+    ['State', 'RPP'],
+    ['Alabama', 200],
+    ['Alaska', 300],
+    ['Arizona', 400],
+    ['Arkansas', 500],
+    ['California', 600],
+    ['Colorado', 700]
+  ]);
+
+  var options = {
+      resolution: 'provinces',
+      region: 'US'
+  };
+
+  var chart = new google.visualization.GeoChart(document.getElementById('regions_div'));
+
+  chart.draw(data, options);
+}
+
 data = d3.csv("https://raw.githubusercontent.com/mwhar/team6-project3/margaret/cleaned%20data/Per%20capita%20personal%20consumption%20expenditures%20(PCE)%20by%20state%202.csv",function(csv){
   var expens = [];
   for (i=2; i<25; i++){
@@ -13,6 +39,7 @@ data = d3.csv("https://raw.githubusercontent.com/mwhar/team6-project3/margaret/c
     category: csv["PCE Category"].trim()
     }
   }).then(function(d){
+    expendData = d;
     var filtered;
     var clothing;
     var gasoline;
@@ -96,3 +123,4 @@ data = d3.csv("https://raw.githubusercontent.com/mwhar/team6-project3/margaret/c
     
     Plotly.newPlot('barchart_div', data, layout);
   });
+  google.charts.setOnLoadCallback(drawRegionsMap);

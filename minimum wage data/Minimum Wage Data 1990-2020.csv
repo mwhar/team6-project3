@@ -1,4 +1,4 @@
-Year,State,State.Minimum.Wage,State.Minimum.Wage.2020.Dollars,Federal.Minimum.Wage,Federal.Minimum.Wage.2020.Dollars,Effective.Minimum.Wage,Effective.Minimum.Wage.2020.Dollars,CPI.Average,Department.Of.Labor.Uncleaned.Data,Department.Of.Labor.Cleaned.Low.Value,Department.Of.Labor.Cleaned.Low.Value.2020.Dollars,Department.Of.Labor.Cleaned.High.Value,Department.Of.Labor.Cleaned.High.Value.2020.Dollars,Footnote
+ï»¿Year,State,State.Minimum.Wage,State.Minimum.Wage.2020.Dollars,Federal.Minimum.Wage,Federal.Minimum.Wage.2020.Dollars,Effective.Minimum.Wage,Effective.Minimum.Wage.2020.Dollars,CPI.Average,Department.Of.Labor.Uncleaned.Data,Department.Of.Labor.Cleaned.Low.Value,Department.Of.Labor.Cleaned.Low.Value.2020.Dollars,Department.Of.Labor.Cleaned.High.Value,Department.Of.Labor.Cleaned.High.Value.2020.Dollars,Footnote
 1990,Alabama,0,0,3.35,6.63,3.35,6.63,130.7,...,0,0,0,0,
 1990,Alaska,3.85,7.62,3.35,6.63,3.85,7.62,130.7,3.85,3.85,7.62,3.85,7.62,
 1990,Arizona,0,0,3.35,6.63,3.35,6.63,130.7,...,0,0,0,0,
@@ -1119,7 +1119,7 @@ Year,State,State.Minimum.Wage,State.Minimum.Wage.2020.Dollars,Federal.Minimum.Wa
 2010,Oklahoma,2,2.37,7.25,8.6,7.25,8.6,218.056,2.00-7.25(g),2,2.37,7.25,8.6,(g)
 2010,Oregon,8.4,9.96,7.25,8.6,8.4,9.96,218.056,8.4,8.4,9.96,8.4,9.96,
 2010,Pennsylvania,7.25,8.6,7.25,8.6,7.25,8.6,218.056,7.25,7.25,8.6,7.25,8.6,
-2010,Puerto Rico,0,0,7.25,8.6,7.25,8.6,218.056,5.08 – 7.25 (i2),0,NA,0,NA,(i2)
+2010,Puerto Rico,0,0,7.25,8.6,7.25,8.6,218.056,5.08 â€“ 7.25 (i2),0,NA,0,NA,(i2)
 2010,Rhode Island,7.4,8.78,7.25,8.6,7.4,8.78,218.056,7.4,7.4,8.78,7.4,8.78,
 2010,South Carolina,0,0,7.25,8.6,7.25,8.6,218.056,...,0,0,0,0,
 2010,South Dakota,7.25,8.6,7.25,8.6,7.25,8.6,218.056,7.25,7.25,8.6,7.25,8.6,
@@ -1173,7 +1173,7 @@ Year,State,State.Minimum.Wage,State.Minimum.Wage.2020.Dollars,Federal.Minimum.Wa
 2011,Oklahoma,2,2.3,7.25,8.34,7.25,8.34,224.939,2.00-7.25(g),2,2.3,7.25,8.34,(g)
 2011,Oregon,8.5,9.77,7.25,8.34,8.5,9.77,224.939,8.5,8.5,9.77,8.5,9.77,
 2011,Pennsylvania,7.25,8.34,7.25,8.34,7.25,8.34,224.939,7.25,7.25,8.34,7.25,8.34,
-2011,Puerto Rico,0,0,7.25,8.34,7.25,8.34,224.939,5.08 – 7.25 (i2),0,NA,0,NA,(i2)
+2011,Puerto Rico,0,0,7.25,8.34,7.25,8.34,224.939,5.08 â€“ 7.25 (i2),0,NA,0,NA,(i2)
 2011,Rhode Island,7.4,8.51,7.25,8.34,7.4,8.51,224.939,7.4,7.4,8.51,7.4,8.51,
 2011,South Carolina,0,0,7.25,8.34,7.25,8.34,224.939,...,0,0,0,0,
 2011,South Dakota,7.25,8.34,7.25,8.34,7.25,8.34,224.939,7.25,7.25,8.34,7.25,8.34,
@@ -1227,7 +1227,7 @@ Year,State,State.Minimum.Wage,State.Minimum.Wage.2020.Dollars,Federal.Minimum.Wa
 2012,Oklahoma,2,2.25,7.25,8.17,7.25,8.17,229.594,2.00-7.25(g),2,2.25,7.25,8.17,(g)
 2012,Oregon,8.8,9.91,7.25,8.17,8.8,9.91,229.594,8.8,8.8,9.91,8.8,9.91,
 2012,Pennsylvania,7.25,8.17,7.25,8.17,7.25,8.17,229.594,7.25,7.25,8.17,7.25,8.17,
-2012,Puerto Rico,0,0,7.25,8.17,7.25,8.17,229.594,5.08 – 7.25 (i2),0,NA,0,NA,(i2)
+2012,Puerto Rico,0,0,7.25,8.17,7.25,8.17,229.594,5.08 â€“ 7.25 (i2),0,NA,0,NA,(i2)
 2012,Rhode Island,7.4,8.34,7.25,8.17,7.4,8.34,229.594,7.4,7.4,8.34,7.4,8.34,
 2012,South Carolina,0,0,7.25,8.17,7.25,8.17,229.594,...,0,0,0,0,
 2012,South Dakota,7.25,8.17,7.25,8.17,7.25,8.17,229.594,7.25,7.25,8.17,7.25,8.17,
@@ -1281,7 +1281,7 @@ Year,State,State.Minimum.Wage,State.Minimum.Wage.2020.Dollars,Federal.Minimum.Wa
 2013,Oklahoma,2,2.22,7.25,8.05,7.25,8.05,232.957,2.00-7.25(g),2,2.22,7.25,8.05,(g)
 2013,Oregon,8.95,9.94,7.25,8.05,8.95,9.94,232.957,8.95,8.95,9.94,8.95,9.94,
 2013,Pennsylvania,7.25,8.05,7.25,8.05,7.25,8.05,232.957,7.25,7.25,8.05,7.25,8.05,
-2013,Puerto Rico,0,0,7.25,8.05,7.25,8.05,232.957,5.08 – 7.25 (i2),0,NA,0,NA,(i2)
+2013,Puerto Rico,0,0,7.25,8.05,7.25,8.05,232.957,5.08 â€“ 7.25 (i2),0,NA,0,NA,(i2)
 2013,Rhode Island,7.75,8.61,7.25,8.05,7.75,8.61,232.957,7.75,7.75,8.61,7.75,8.61,
 2013,South Carolina,0,0,7.25,8.05,7.25,8.05,232.957,...,0,0,0,0,
 2013,South Dakota,7.25,8.05,7.25,8.05,7.25,8.05,232.957,7.25,7.25,8.05,7.25,8.05,

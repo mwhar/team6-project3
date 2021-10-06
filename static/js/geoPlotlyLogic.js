@@ -1,5 +1,4 @@
-var data;
-data = d3.csv("https://raw.githubusercontent.com/mwhar/team6-project3/amber/cleaned%20data/Minimum%20Wage%20Data.csv%201990-2020%202.csv",function(csv){
+var data = d3.csv("https://raw.githubusercontent.com/mwhar/team6-project3/amber/cleaned%20data/Minimum%20Wage%20Data.csv%201990-2020%202.csv",function(csv){
    return {
        year: Number(csv.Year),
        location: abbr(csv.State),

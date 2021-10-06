@@ -1,25 +1,30 @@
 google.charts.load('current', {
-    'packages':['geochart'],
-  });
-  google.charts.setOnLoadCallback(drawRegionsMap);
+    'packages':['geochart']
+});
 
-  function drawRegionsMap() {
-    var data = google.visualization.arrayToDataTable([
-      ['State', 'RPP'],
-      ['Alabama', 200],
-      ['Alaska', 300],
-      ['Arizona', 400],
-      ['Arkansas', 500],
-      ['California', 600],
-      ['Colorado', 700]
-    ]);
+console.log("pulled data:",expendData);
 
-    var options = {
-        resolution: 'provinces',
-        region: 'US'
-    };
 
-    var chart = new google.visualization.GeoChart(document.getElementById('regions_div'));
+debugger;
+google.charts.setOnLoadCallback(drawRegionsMap);
 
-    chart.draw(data, options);
-  }
+function drawRegionsMap() {
+  var data = google.visualization.arrayToDataTable([
+    ['State', 'RPP'],
+    ['Alabama', 200],
+    ['Alaska', 300],
+    ['Arizona', 400],
+    ['Arkansas', 500],
+    ['California', 600],
+    ['Colorado', 700]
+  ]);
+
+  var options = {
+      resolution: 'provinces',
+      region: 'US'
+  };
+
+  var chart = new google.visualization.GeoChart(document.getElementById('regions_div'));
+
+  chart.draw(data, options);
+}
