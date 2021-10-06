@@ -50,8 +50,8 @@ ALTER TABLE "wages" ADD FOREIGN KEY ("year") REFERENCES "par_years" ("year");
 
 ALTER TABLE "wages" ADD FOREIGN KEY ("state_name") REFERENCES "par_states" ("full_name");
 
-ALTER TABLE "states_pces" ADD FOREIGN KEY ("year") REFERENCES "par_years" ("year");
+ALTER TABLE "pce" ADD FOREIGN KEY ("year") REFERENCES "par_years" ("year");
 
-ALTER TABLE "states_pces" ADD FOREIGN KEY ("state_name") REFERENCES "par_states" ("full_name");
+ALTER TABLE "pce" ADD FOREIGN KEY ("state_name") REFERENCES "par_states" ("full_name");
 
-ALTER TABLE "states_pces" ADD FOREIGN KEY ("pce_cat") REFERENCES "par_pce" ("category");
+ALTER TABLE "pce" ADD FOREIGN KEY ("pce_cat") REFERENCES "par_pce" ("category");
