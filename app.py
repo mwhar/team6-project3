@@ -1,7 +1,9 @@
 import pandas as pd
 import sqlalchemy
+import sqlite3
+import json
 from sqlalchemy.orm import Session
-from sqlalchemy import create_engine, Table, MetaData
+from sqlalchemy import create_engine, Table, MetaData, Column
 from flask import Flask, jsonify, render_template, request, redirect
 
 
@@ -38,15 +40,16 @@ def home():
 # Query the database and send the jsonified results
 @app.route("/api/data")
 def data():
-    session = Session(engine)
-    results = wages_tbl
-    session.close()
+    
+    results = wages_tbl.c
+    
 
     # Find one record of data from the mongo database
     # planet_data = mongo.db.collection.find_one()
 
     # Return template and data
-    return jsonify(results)
+    # return jsonify(results)
+    return results
 
 if __name__ == "__main__":
     app.run(debug=True)
