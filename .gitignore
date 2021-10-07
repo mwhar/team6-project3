@@ -76,7 +76,10 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+<<<<<<< HEAD
 *starter.ipynb
+=======
+>>>>>>> origin/main
 
 # IPython
 profile_default/
@@ -128,3 +131,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+<<<<<<< HEAD
+=======
+
+#Mac
+.DS_Store
+>>>>>>> origin/main
