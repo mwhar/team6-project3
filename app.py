@@ -1,8 +1,11 @@
+import numpy as np
 import pandas as pd
 import sqlalchemy
 import sqlite3
 import json
-from sqlalchemy.orm import Session
+from sqlalchemy.orm import Session, registry
+
+from sqlalchemy.ext.automap import automap_base
 from sqlalchemy import create_engine, Table, MetaData, Column
 from flask import Flask, jsonify, render_template, request, redirect
 
@@ -15,13 +18,16 @@ from flask import Flask, jsonify, render_template, request, redirect
 engine = create_engine(r'sqlite:///min_wage.sqlite')
 
 # reflect the tables
-meta = MetaData()
-meta.reflect(bind = engine)
+Base = automap_base()
+Base.prepare(engine, reflect=True)
 
 # Save references to each table
-wages_tbl = Table('wages', meta, autoload=engine)
-pce_tbl = Table('pce', meta, autoload=engine)
-rpp_tbl = Table('rpp', meta, autoload=engine)
+Pstates = Base.classes.par_states
+Pyears =Base.classes.par_years
+Ppce =Base.classes.par_pce
+Wages = Base.classes.wages
+Pce =Base.classes.pce
+Rpp = Base.classes.rpp
 
 #################################################
 # Flask Setup
@@ -38,38 +44,52 @@ def home():
 
 
 # Query the database and send the jsonified results
-@app.route("/api/wages")
-def wages():
+@app.route("/<state>")
+def wages(state):
+    selW =[Wages.min_wage_eff, Wages.state_name, Wages.year]
+    selP =[Pce.pce_value, Pce.pce_cat, Pce.state_name, Pce.year]
+    w =[]
+    p = []
+
     session = Session(bind=engine)
-    qry = session.query(wages_tbl.c.year,wages_tbl.c.state_name,wages_tbl.c.min_wage_eff)
-    df = pd.DataFrame(qry)
-    df.columns=["year", "state", "min_wage"]
-    result = df.to_json(orient='records')
+    if (state == "US"):
+        for r in session.query(*selW).filter(Wages.year == 2020).all():
+            rl = dict(r)
+            w.append(rl)
+        for r in session.query(*selP).filter(Pce.state_name != "United States",Pce.year == 2019, Pce.pce_cat != "Household consumption expenditures (for services)").all():
+            rl = dict(r)
+            p.append(rl)
+    else:
+        for r in session.query(*selW).filter(Wages.state_name == state).all():
+            rl = dict(r)
+            w.append(rl)
+        for r in session.query(*selP).filter(Pce.state_name == state, Pce.pce_cat != "Household consumption expenditures (for services)").all():
+            rl = dict(r)
+            p.append(rl)
+
+    session.close()
+    
+    return jsonify([w, p])
+
+@app.route("/pick")
+def pick():
+    selS =[Pstates.full_name]
+    selY =[Pyears.year]
+    s = []
+    y = []
+
+    session = Session(bind=engine)
+
+    for r in session.query(*selS).all():
+        rl = dict(r)
+        s.append(rl)
+    for r in session.query(*selY).all():
+        rl = dict(r)
+        y.append(rl)
+
     session.close()
 
-    return result
-
-@app.route("/api/pce")
-def pce():
-    session = Session(bind=engine)
-    qry = session.query(pce_tbl.c.year,pce_tbl.c.state_name,pce_tbl.c.pce_category,pce_tbl.c.pce_value)
-    df = pd.DataFrame(qry)
-    df.columns=["year", "state", "category","total"]
-    result = df.to_json(orient='records')
-    session.close()
-
-    return result
-
-@app.route("/api/rpp")
-def rpp():
-    session = Session(bind=engine)
-    qry = session.query(rpp_tbl.c.year,rpp_tbl.c.state_name,rpp_tbl.c.rpp_value)
-    df = pd.DataFrame(qry)
-    df.columns=["year", "state", "total"]
-    result = df.to_json(orient='records')
-    session.close()
-
-    return result
+    return jsonify([s, y])
 
 if __name__ == "__main__":
     app.run(debug=True)

@@ -1,13 +1,14 @@
 // d3.json("Resources/wage_data.json").then((data)=>{
-d3.json("Resources/wage_data.json").then(function(response){
-	console.log(response[0])
+const url = '/api/wages'
+const drop_url ='/api/states'
+d3.json(drop_url).then(function(response){
+	console.log(response)
 	let dropdown= d3.select ("#selState")	
 	let dropdown2= d3.select ("#selYear")	
-	response.map(data=>dropdown.append("option").text(data.State).property("value",data.State))
+	response.map(data=>dropdown.append("option").text(data.name).property("value",data.name))
 	// response.map(data=>dropdown2.append("option").text(data.Year.toString()).property("value",data.Year.toString()))
 	let Years=new Set()
 	response.forEach((sampledata)=>{
-	
 	Years.add(sampledata.Year)
 	})
 	console.log(Years)
@@ -20,7 +21,7 @@ d3.json("Resources/wage_data.json").then(function(response){
 });
 function optionStateChanged(selectvalue){
 console.log(selectvalue)
-d3.json("Resources/wage_data.json").then(function(response){
+d3.json(url).then(function(response){
 let state=response.filter(st=>st.State==selectvalue)
 console.log(state)
 let Years=state.map(Y=>Y.Year)
@@ -65,7 +66,7 @@ console.log(selectvalue)
 
 }
 function filterstatedata(selectvalue){
-	d3.json("Resources/wage_data.json").then(function(response){
+	d3.json(url).then(function(response){
 		console.log(response[0]);
 		response.map((data)=>{
 			if(data.State==selectvalue) {
@@ -78,7 +79,7 @@ function filterstatedata(selectvalue){
 function createlinechart(){
 	var states =[]
 	var wages=[]
-	d3.json("wage_data.json").then ((response)=>{
+	d3.json(url).then ((response)=>{
 		response.map((data)=>{
 			if(data.Year==1990) {
 				console.log(data["State Minimum Wage"])

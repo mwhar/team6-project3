@@ -92,7 +92,7 @@ data = d3.csv("https://raw.githubusercontent.com/mwhar/team6-project3/margaret/c
     console.log(traceGasoline);
     var data = [traceGasoline,traceClothing, traceHealth, traceHousing];
     var layout = {
-      title: `Annual Personal Consumption Expenditures in ${clothing[0].name} (1997 - 2019)` ,
+      // title: `Annual Personal Consumption Expenditures in ${clothing[0].name} (1997 - 2019)` ,
       xaxis: {
         tickangle:45,
         tickfont: {
@@ -114,7 +114,7 @@ data = d3.csv("https://raw.githubusercontent.com/mwhar/team6-project3/margaret/c
       },
       legend: {
         x: 0,
-        y: 1.0,
+        y: 1.1,
         bgcolor: 'rgba(255, 255, 255, 0)',
         bordercolor: 'rgba(255, 255, 255, 0)'
       },

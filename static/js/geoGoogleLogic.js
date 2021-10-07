@@ -2,10 +2,8 @@ google.charts.load('current', {
     'packages':['geochart']
 });
 
-console.log("pulled data:",expendData);
+// console.log("pulled data:",expendData);
 
-
-debugger;
 google.charts.setOnLoadCallback(drawRegionsMap);
 
 function drawRegionsMap() {
@@ -18,7 +16,7 @@ function drawRegionsMap() {
     ['California', 600],
     ['Colorado', 700]
   ]);
-
+  // console.log(selectvalue);
   var options = {
       resolution: 'provinces',
       region: 'US'
