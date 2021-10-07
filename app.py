@@ -38,18 +38,38 @@ def home():
 
 
 # Query the database and send the jsonified results
-@app.route("/api/data")
-def data():
-    
-    results = wages_tbl.c
-    
+@app.route("/api/wages")
+def wages():
+    session = Session(bind=engine)
+    qry = session.query(wages_tbl.c.year,wages_tbl.c.state_name,wages_tbl.c.min_wage_eff)
+    df = pd.DataFrame(qry)
+    df.columns=["year", "state", "min_wage"]
+    result = df.to_json(orient='records')
+    session.close()
 
-    # Find one record of data from the mongo database
-    # planet_data = mongo.db.collection.find_one()
+    return result
 
-    # Return template and data
-    # return jsonify(results)
-    return results
+@app.route("/api/pce")
+def pce():
+    session = Session(bind=engine)
+    qry = session.query(pce_tbl.c.year,pce_tbl.c.state_name,pce_tbl.c.pce_category,pce_tbl.c.pce_value)
+    df = pd.DataFrame(qry)
+    df.columns=["year", "state", "category","total"]
+    result = df.to_json(orient='records')
+    session.close()
+
+    return result
+
+@app.route("/api/rpp")
+def rpp():
+    session = Session(bind=engine)
+    qry = session.query(rpp_tbl.c.year,rpp_tbl.c.state_name,rpp_tbl.c.rpp_value)
+    df = pd.DataFrame(qry)
+    df.columns=["year", "state", "total"]
+    result = df.to_json(orient='records')
+    session.close()
+
+    return result
 
 if __name__ == "__main__":
     app.run(debug=True)
