@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" href="static/css/styles.css">
+    
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <title>Title</title>
+    
+  </head>
+  <body>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12 jumbotron text-center">
+          <h1>Minimun and Effective Wage by state</h1>
+          <p>Use the interactive charts below to explore the dataset</p>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-6">
+          <div class="well">
+           <select id="selState" onchange="optionStateChanged(this.value)"></select>
+           <div id="linechart_div"></div>
+           
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="well">
+         <select id="selYear" onchange="optionYearChanged(this.value)"></select>
+         <br>
+            <div id="regions_div"></div>
+        </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-6">
+          <div class="well">
+            <div id="barchart_div"></div>
+          </div>
+      </div>
+        <div class="col-md-6">
+          <div class="well">
+            <div id=""></div>
+          </div>
+        </div>
+      </div>
+      
+      
+      
+    </div>
+
+  
+  
+    <div class="container">
+      <div class="row">
+        <div class="col-md-16 jumbotron text-left">
+          
+        
+        </div>
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    
+    <script type="text/javascript" src="static/js/geoLogic.js"></script>
+    <script type="text/javascript" src="static/js/app.js"></script>
+  </body>
+</html>
